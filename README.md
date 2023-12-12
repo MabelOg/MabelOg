@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mabel
-- 👀 I’m interested in Data Science and the intersection between Business and data science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me www.linkedin.com/in/mabelogonna
+- Hi, I’m Mabel
+- I’m interested in Data Science and the intersection between Business and data science
+- I’m currently on my Data Science journey 
+- I’m looking to collaborate on Data Science projects
+- How to reach me www.linkedin.com/in/mabelogonna
 
 
 <!---
